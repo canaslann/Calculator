@@ -1,0 +1,15 @@
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\bin\Release\net7.0\Hesap Makinesi.exe
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\bin\Release\net7.0\Hesap Makinesi.deps.json
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\bin\Release\net7.0\Hesap Makinesi.runtimeconfig.json
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\bin\Release\net7.0\Hesap Makinesi.dll
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\bin\Release\net7.0\Hesap Makinesi.pdb
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\obj\Release\net7.0\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\obj\Release\net7.0\Hesap Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\obj\Release\net7.0\Hesap Makinesi.AssemblyInfoInputs.cache
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\obj\Release\net7.0\Hesap Makinesi.AssemblyInfo.cs
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\obj\Release\net7.0\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\obj\Release\net7.0\Hesap Makinesi.dll
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\obj\Release\net7.0\refint\Hesap Makinesi.dll
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\obj\Release\net7.0\Hesap Makinesi.pdb
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\obj\Release\net7.0\Hesap Makinesi.genruntimeconfig.cache
+C:\Users\canas\OneDrive\Masaüstü\Hesap Makinesi\obj\Release\net7.0\ref\Hesap Makinesi.dll
